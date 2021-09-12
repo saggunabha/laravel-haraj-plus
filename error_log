@@ -1,0 +1,335 @@
+[24-Dec-2019 16:44:58 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Dec-2019 16:45:33 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Dec-2019 16:45:52 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[24-Dec-2019 16:46:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 72 bytes) in phar:///usr/local/bin/composer/src/Composer/Json/JsonFile.php on line 275
+[24-Dec-2019 16:50:11 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[19-Jan-2020 10:04:19 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 95 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 10:28:23 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4713361 bytes) in phar:///usr/local/bin/composer/src/Composer/Json/JsonFile.php on line 275
+[19-Jan-2020 10:49:34 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 86 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 11:00:27 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 94 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 11:04:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 94 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 11:07:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 88 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 11:12:08 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 94 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 13:12:41 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 96 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 13:19:05 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 13:22:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[19-Jan-2020 13:25:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 123 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[20-Jan-2020 12:54:06 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 83 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[20-Jan-2020 12:57:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 95 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[20-Jan-2020 12:58:14 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 95 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[21-Jan-2020 10:23:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 90 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[22-Jan-2020 19:24:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[26-Jan-2020 10:51:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 99 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[26-Jan-2020 10:54:07 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/harajplus/public_html/beta/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[26-Jan-2020 11:00:47 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/harajplus/public_html/beta/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[26-Jan-2020 11:04:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 101 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[26-Jan-2020 11:13:45 UTC] PHP Parse error:  syntax error, unexpected '?' in /home/harajplus/public_html/beta/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php on line 500
+[26-Jan-2020 11:14:39 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[26-Jan-2020 11:17:31 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[26-Jan-2020 11:18:07 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[26-Jan-2020 11:23:13 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 95 bytes) in phar:///usr/local/bin/composer/src/Composer/Repository/ComposerRepository.php on line 588
+[04-Sep-2020 01:00:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8385928 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[04-Sep-2020 01:00:20 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[04-Sep-2020 13:00:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8385928 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[04-Sep-2020 13:00:19 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[05-Sep-2020 01:00:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8385928 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[05-Sep-2020 01:00:20 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[05-Sep-2020 13:00:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8385928 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[05-Sep-2020 13:00:20 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[06-Sep-2020 01:00:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8385928 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[06-Sep-2020 01:00:20 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[06-Sep-2020 13:00:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8385928 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[06-Sep-2020 13:00:19 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[07-Sep-2020 01:00:21 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8385928 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[07-Sep-2020 01:00:21 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[24-Sep-2020 13:00:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8881472 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[24-Sep-2020 13:00:37 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[26-Sep-2020 01:00:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8227944 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[26-Sep-2020 01:00:37 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[20-Jul-2021 01:07:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[20-Jul-2021 13:06:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[20-Jul-2021 13:06:48 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[21-Jul-2021 01:07:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[21-Jul-2021 01:07:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[21-Jul-2021 13:07:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[21-Jul-2021 13:07:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[22-Jul-2021 01:07:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[22-Jul-2021 01:07:45 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[22-Jul-2021 13:08:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[22-Jul-2021 13:08:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[23-Jul-2021 01:08:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[23-Jul-2021 01:08:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[23-Jul-2021 13:08:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[23-Jul-2021 13:08:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[24-Jul-2021 01:07:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[24-Jul-2021 01:07:30 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[24-Jul-2021 13:07:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Support/Collection.php on line 1122
+[24-Jul-2021 13:07:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 524288 bytes) in /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php on line 147
+[25-Jul-2021 01:00:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 8024496 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[25-Jul-2021 01:00:13 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[25-Jul-2021 13:00:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6815744 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[25-Jul-2021 13:00:10 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[26-Jul-2021 01:00:09 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6815744 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[26-Jul-2021 01:00:09 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[26-Jul-2021 13:00:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6815744 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[26-Jul-2021 13:00:12 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[27-Jul-2021 01:06:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[27-Jul-2021 13:08:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[28-Jul-2021 01:07:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[28-Jul-2021 13:08:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[29-Jul-2021 01:07:02 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[29-Jul-2021 13:07:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 110592 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[29-Jul-2021 13:07:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 65536 bytes) in /home/harajplus/public_html/vendor/composer/ClassLoader.php on line 444
+[29-Jul-2021 13:07:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 114688 bytes) in Unknown on line 0
+[30-Jul-2021 01:08:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[30-Jul-2021 13:08:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[31-Jul-2021 01:08:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[31-Jul-2021 13:07:37 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[01-Aug-2021 01:08:23 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[01-Aug-2021 13:08:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[02-Aug-2021 01:08:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[02-Aug-2021 13:09:51 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[03-Aug-2021 01:06:56 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[03-Aug-2021 13:10:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[04-Aug-2021 01:07:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[04-Aug-2021 13:08:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[05-Aug-2021 01:07:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[05-Aug-2021 13:08:28 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[06-Aug-2021 01:07:52 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[06-Aug-2021 13:00:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5232144 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[06-Aug-2021 13:00:11 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[07-Aug-2021 01:00:11 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5232144 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[07-Aug-2021 01:00:11 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[07-Aug-2021 13:07:50 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[08-Aug-2021 01:00:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 5232144 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[08-Aug-2021 01:00:12 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[09-Aug-2021 01:10:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[09-Aug-2021 13:12:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[10-Aug-2021 01:00:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6671808 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[10-Aug-2021 01:00:15 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[10-Aug-2021 13:00:17 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6671808 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[10-Aug-2021 13:00:17 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[11-Aug-2021 01:00:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6671808 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[11-Aug-2021 01:00:14 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[11-Aug-2021 13:00:15 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 6671808 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[11-Aug-2021 13:00:15 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[12-Aug-2021 01:10:26 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[12-Aug-2021 13:12:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[13-Aug-2021 01:09:33 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[13-Aug-2021 13:16:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[14-Aug-2021 01:12:27 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[14-Aug-2021 13:09:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[15-Aug-2021 01:12:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[15-Aug-2021 13:07:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[16-Aug-2021 01:07:44 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[16-Aug-2021 13:09:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[17-Aug-2021 01:10:08 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[17-Aug-2021 13:12:34 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[18-Aug-2021 01:13:29 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[18-Aug-2021 13:15:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[19-Aug-2021 01:12:10 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[19-Aug-2021 13:07:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[20-Aug-2021 01:10:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[20-Aug-2021 13:04:53 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2621440 bytes) in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1145
+[20-Aug-2021 13:04:53 UTC] PHP Fatal error:  Uncaught Exception in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php:1142
+Stack trace:
+#0 [internal function]: Symfony\Component\DomCrawler\Crawler->Symfony\Component\DomCrawler\{closure}(16384, 'The "Symfony\\Co...', '/home/harajplus...', 14, Array)
+#1 /home/harajplus/public_html/vendor/symfony/debug/Exception/FatalErrorException.php(14): trigger_error('The "Symfony\\Co...', 16384)
+#2 /home/harajplus/public_html/vendor/composer/ClassLoader.php(444): include('/home/harajplus...')
+#3 /home/harajplus/public_html/vendor/composer/ClassLoader.php(322): Composer\Autoload\includeFile('/home/harajplus...')
+#4 [internal function]: Composer\Autoload\ClassLoader->loadClass('Symfony\\Compone...')
+#5 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(147): spl_autoload_call('Symfony\\Compone...')
+#6 /home/harajplus/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(134): Illuminate\Foundation\Bootstrap in /home/harajplus/public_html/vendor/symfony/dom-crawler/Crawler.php on line 1142
+[21-Aug-2021 01:08:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[21-Aug-2021 13:08:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[22-Aug-2021 01:07:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[22-Aug-2021 13:10:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[23-Aug-2021 01:09:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[23-Aug-2021 13:11:38 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[24-Aug-2021 01:08:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[24-Aug-2021 13:09:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[25-Aug-2021 01:08:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[25-Aug-2021 13:08:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[26-Aug-2021 01:07:47 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[26-Aug-2021 13:07:18 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[27-Aug-2021 01:06:41 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[27-Aug-2021 13:07:01 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[28-Aug-2021 01:07:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[28-Aug-2021 13:07:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[29-Aug-2021 01:07:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[29-Aug-2021 13:07:25 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[30-Aug-2021 01:07:46 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[30-Aug-2021 13:07:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[31-Aug-2021 01:06:43 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[31-Aug-2021 13:07:35 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[01-Sep-2021 01:06:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[01-Sep-2021 13:07:19 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[02-Sep-2021 01:07:04 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[02-Sep-2021 13:07:22 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[03-Sep-2021 01:07:14 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[03-Sep-2021 13:07:20 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[04-Sep-2021 01:07:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[04-Sep-2021 13:07:24 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[05-Sep-2021 01:07:13 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[05-Sep-2021 13:06:55 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
+[06-Sep-2021 01:03:16 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097184 bytes) in /home/harajplus/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 225
