@@ -212,7 +212,7 @@
 <script>
      $( "form" ).on( "submit", function( event ) {
         event.preventDefault();
-          $("#loader").html("<div class='load-aj'><img src=`{{env('MAIN_URL')}}/website/images/ajax-loader.gif`/></div>");
+        $("#loader").html("<div class='load-aj'><img src='https://haraj-plus.sa/public/website/images/ajax-loader.gif'/></div>");
           var formData = new FormData(this);
        
                 $.ajax({
@@ -235,6 +235,7 @@
                 },
                 error: function(data) {
                       $("#loader").hide(100);
+                      console("Error !! ");
                       
                 }
                 });
