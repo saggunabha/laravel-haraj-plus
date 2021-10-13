@@ -51,7 +51,7 @@
                 <div class="col-12 gray-bg row no-marg-row">
                     <div class="col-xl-2 latest-title-grid">
                         <div class="new-product-box">
-                        {{env("MAIN_URL")}}    أحدث المنتجات
+                        أحدث المنتجات
                         </div>
                     </div>
                     <div class="col-xl-10 no-marg-row">
