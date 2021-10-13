@@ -235,7 +235,7 @@
                 },
                 error: function(data) {
                       $("#loader").hide(100);
-                      console("Error !! ");
+                      console.log("Error !! ");
                       
                 }
                 });
