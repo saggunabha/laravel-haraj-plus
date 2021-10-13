@@ -467,7 +467,7 @@ function sleep(ms) {
                         $('.login-btn-num.notify').empty();
                         $('.login-btn-num.notify').append(a+1);
                         $('.login-btn-num.notify').show();
-                        sleep(2000).then(() => { if(window.location.href !== 'https://haraj-plus.sa/products/create'){window.location.reload();}
+                        sleep(2000).then(() => { if(window.location.href !== `{{env("MAIN_URL")}}/products/create`){window.location.reload();}
                         else{
                             audioElement.play();
                             audioElement.pause();
@@ -502,7 +502,7 @@ function sleep(ms) {
                     $('.login-btn-num.msg').empty();
                     $('.login-btn-num.msg').append(a+1);
                     $('.login-btn-num.msg').show();
-                   sleep(2000).then(() => { if(window.location.href !== 'https://haraj-plus.sa/products/create'){window.location.reload();}
+                   sleep(2000).then(() => { if(window.location.href !== `{{env("MAIN_URL")}}/products/create`){window.location.reload();}
                         else{
                             audioElement.play();
                             audioElement.pause();

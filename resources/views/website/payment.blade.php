@@ -212,7 +212,7 @@
 <script>
      $( "form" ).on( "submit", function( event ) {
         event.preventDefault();
-          $("#loader").html("<div class='load-aj'><img src='https://haraj-plus.sa/public/website/images/ajax-loader.gif'/></div>");
+          $("#loader").html("<div class='load-aj'><img src='{{env('MAIN_URL')}}/public/website/images/ajax-loader.gif'/></div>");
           var formData = new FormData(this);
        
                 $.ajax({
@@ -231,7 +231,7 @@
                         showConfirmButton: false,
                         timer: 1500
                     });
-                    location.replace("https://haraj-plus.sa");
+                    location.replace(`{{env('MAIN_URL')}}`);
                 },
                 error: function(data) {
                       $("#loader").hide(100);

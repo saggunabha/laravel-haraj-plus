@@ -767,7 +767,7 @@ db.collection("users").orderBy("createdAt", "desc")
 $(document).on('click', '.chat_user_id', function(e) {
     e.preventDefault();
     var user_id = $(this).attr("data-id");
-    window.location.href = "https://haraj-plus.sa/admin/chat/" + user_id;
+    window.location.href = `{{env("MAIN_URL")}}/admin/chat/` + user_id;
     
 
 

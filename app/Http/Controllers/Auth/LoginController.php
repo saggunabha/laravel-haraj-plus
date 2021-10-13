@@ -213,7 +213,7 @@ class LoginController extends Controller
                 $token = $user->code;
                 $id = $user->id;
     
-                $url = 'https://haraj-plus.sa/add_phone/' . $token . '/' . $id;
+                $url = `{{env("MAIN_URL")}}/add_phone/ `. $token . '/' . $id;
                 //Auth::login($user);
                 return response()->json(['success'=>true,'user'=>$user , 'url' => $url , 'token' => $token , 'id' =>$id , 'stat' => $status]);
             }

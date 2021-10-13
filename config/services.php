@@ -39,13 +39,13 @@ return [
     'facebook' => [
         'client_id' => '450732055904808', //Facebook API
         'client_secret' => 'ecc04913aecf74f36073f32aad9dc420', //Facebook Secret
-        'redirect' => 'https://haraj-plus.sa/login/facebook/callback',
+        'redirect' => `{{env("MAIN_URL")}}/login/facebook/callback`,
     ],
 
     "google" => [
         'client_id' => '643317946965-4s7rikahifojrd8hgov7sri6imuqgaqb.apps.googleusercontent.com',
         'client_secret' => '6h4fBLnnmCdpfBGxSY_UYp_F', //Facebook Secret
-        'redirect' => 'https://haraj-plus.sa/login/google/callback',
+        'redirect' => `{{env("MAIN_URL")}}/login/google/callback`,
     ],
 
 
@@ -53,20 +53,20 @@ return [
     "instagram" => [
         'client_id' => '174665673769858', //google API
         'client_secret' => '81f8364bbda0a7f29e4b4b7bc50b43fc', //Facebook Secret
-        'redirect' => 'http://beta.haraj-plus.sa/login/instagram/callback',
+        'redirect' => `{{env("MAIN_URL")}}/login/instagram/callback`,
     ],
 
     "linkedin" => [
         'client_id' => '86jv84txoajhrf', //google API
         'client_secret' => '3AOPHs1zyi6jJ65A', //Facebook Secret
-        'redirect' => 'https://haraj-plus.sa/login/linkedin/callback',
+        'redirect' => `{{env("MAIN_URL")}}/login/linkedin/callback`,
     ],
 
   "twitter" => [
         'client_id' => 'zFXrlTBdsqnTTQuEuKNyseYDm',
         'client_secret' => 'X7o6Z2PfSnkAcEJsaTkVhStlIMGnWj5O2wsVG5J8yvs5ERUsSn',
         'oauth_token'=>'AAAAAAAAAAAAAAAAAAAAAP4THAEAAAAATXs%2F1xyKiF%2BJK9IedkKMTylXLE8%3D563GWzBKi3hTT9wUOq07froIASLzbHBIoF27Z88fm8TurCNhxt',
-        'redirect' => 'https://haraj-plus.sa/login/twitter/callback',
+        'redirect' => `{{env("MAIN_URL")}}/login/twitter/callback`,
     ],
 
 

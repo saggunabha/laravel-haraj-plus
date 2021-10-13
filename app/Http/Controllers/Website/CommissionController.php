@@ -67,7 +67,7 @@ class CommissionController extends Controller
             'type'=>'commission','message'=>$commission->is_accepted==0?'تم رفض طلب الترقيه الخاص بك':'تم قبول طلب الترقيه الخاص بك'];
 
         Notification::send($commission->user, new orderActionNotification($details));
-     Notification::send($commission->user,new MailNotification(['line'=> $details['message'],'url'=>'https://haraj-plus.sa/','url_text'=>'الرجوع للموقع']));
+     Notification::send($commission->user,new MailNotification(['line'=> $details['message'],'url'=>`{{env("MAIN_URL")}}/`,'url_text'=>'الرجوع للموقع']));
 
         return redirect(route('commissions.index'));
     }

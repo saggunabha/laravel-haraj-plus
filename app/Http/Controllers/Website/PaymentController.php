@@ -131,7 +131,7 @@ else
         'type'=>'payment','message'=>$payment->is_accepted==0?'تم رفض طلب الترقيه الخاص بك':'تم قبول طلب الترقيه الخاص بك'];
     
         Notification::send($user, new orderActionNotification($details));
-        Notification::send($user,new MailNotification(['line'=> $details['message'],'url'=>'https://haraj-plus.sa/','url_text'=>' الذهاب للموقع']));
+        Notification::send($user,new MailNotification(['line'=> $details['message'],'url'=>`{{env("MAIN_URL")}}/`,'url_text'=>' الذهاب للموقع']));
 
          return back();
 
@@ -292,7 +292,7 @@ public function payresult()
             'type'=>'payment','message'=>'تم قبول طلب الترقيه الخاص بك'];
     
             Notification::send(Auth::user(), new orderActionNotification($details));
-            Notification::send(Auth::user(),new MailNotification(['line'=> $details['message'],'url'=>'https://haraj-plus.sa/','url_text'=>' الذهاب للموقع']));
+            Notification::send(Auth::user(),new MailNotification(['line'=> $details['message'],'url'=>`{{env("MAIN_URL")}}/`,'url_text'=>' الذهاب للموقع']));
 
              return true;
     
@@ -310,7 +310,7 @@ public function payresult()
             'type'=>'payment','message'=>'تم رفض  طلب الترقيه الخاص بك'];
     
             Notification::send(Auth::user(), new orderActionNotification($details));
-         Notification::send(Auth::user(),new MailNotification(['line'=> $details['message'],'url'=>'https://haraj-plus.sa/','url_text'=>' الذهاب للموقع']));
+         Notification::send(Auth::user(),new MailNotification(['line'=> $details['message'],'url'=>`{{env("MAIN_URL")}}/`,'url_text'=>' الذهاب للموقع']));
 
              return true;
     

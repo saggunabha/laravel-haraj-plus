@@ -526,7 +526,7 @@
                 processData: false,
                 success: function(data) {
                       $("#loader").hide(100);
-                    location.replace("https://haraj-plus.sa/profile-products");
+                    location.replace(`{{env("MAIN_URL")}}/profile-products`);
                 },
                 error: function(data) {
                      $("#loader").hide(100);

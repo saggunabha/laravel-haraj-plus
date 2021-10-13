@@ -67,7 +67,7 @@ class SettingsTableSeeder extends Seeder
             [
                 'key' => 'site_url',
                 'name' => 'رابط الموقع',
-                'value' => 'https://haraj-plus.sa/',
+                'value' => `{{env("MAIN_URL")}}/`,
                 'type' => 'url',
             ],
             [
