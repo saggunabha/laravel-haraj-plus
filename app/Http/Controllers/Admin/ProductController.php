@@ -155,7 +155,7 @@ class ProductController extends Controller
         ];
 
         \Notification::send($user, new orderActionNotification($details));
-        \Notification::send($user,new MailNotification(['line'=> $details['message'],'url'=>`{{env("MAIN_URL")}}`.'/','url_text'=>' الذهاب للموقع']));
+        \Notification::send($user,new MailNotification(['line'=> $details['message'],'url'=>`{{env('MAIN_URL')}}`.'/','url_text'=>' الذهاب للموقع']));
 
 
         $this->service->deleteProduct($id);
